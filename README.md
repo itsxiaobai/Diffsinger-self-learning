@@ -4,4 +4,4 @@
 
 ## 檔案說明
 
-- DiffSinger_colab_translate_ver.ipynb : 適用於 Google Colab 的 Diffsinger 虛擬歌手訓練程式，已經完成繁體中文化
+- DiffSinger_colab_translate_ver.ipynb : 適用於 Google Colab 的 Diffsinger 虛擬歌手訓練程式，已經完成繁體中文化。[原始來源](https://github.com/MLo7Ghinsan/DiffSinger_colab_notebook_MLo7/blob/main/DiffSinger_colab_notebook.ipynb)
