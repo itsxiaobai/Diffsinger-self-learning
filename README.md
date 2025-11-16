@@ -11,8 +11,8 @@
 
 ## 參考來源
 
-[SOFA AI 自動標記](https://github.com/qiuqiao/SOFA)
-[Diffsinger 中國官網](https://diffsinger.com/)
+- [SOFA AI 自動標記](https://github.com/qiuqiao/SOFA)
+- [Diffsinger 中國官網](https://diffsinger.com/)
 
 ## 其他
 
