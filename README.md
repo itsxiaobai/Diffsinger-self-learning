@@ -12,6 +12,10 @@
 - train_files：存放錄製樣本的資料夾。
 - phonemes.md：標記中文樣本用的對照表（雖然最後其實沒有用到）。[原始來源](https://github.com/2xxbin/diffsinger-chinese-support/blob/main/phonemes.md)
 
+## 範例
+
+見[此連結](https://odysee.com/@itsxiaobaibackupchannel:d/output:d0e?r=14jXQtjTESfN1aJK6reBREAq9421Lz6v)
+
 ## 參考來源
 
 - [SOFA AI 自動標記](https://github.com/qiuqiao/SOFA)
