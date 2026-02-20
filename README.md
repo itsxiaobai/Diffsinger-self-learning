@@ -11,6 +11,7 @@
 - SVS-Singing-Voice-Database-Tutorial-gpttranslate.txt：使用 ChatGPT 中文翻譯的 "SVS Singing Voice Database - Tutorial" 純文字版（不建議直接參考）。[原始來源](https://docs.google.com/document/d/1uMsepxbdUW65PfIWL1pt2OM6ZKa5ybTTJOpZ733Ht6s/view)
 - train_files：存放錄製樣本的資料夾。
 - phonemes.md：標記中文樣本用的對照表（雖然最後其實沒有用到）。[原始來源](https://github.com/2xxbin/diffsinger-chinese-support/blob/main/phonemes.md)
+- sumi_DiffSinger_colab_notebook_translated.ipynb：由 [Sumi](https://github.com/usamireko) 製作的 Diffsinger 修正版本，已經完成大部分繁體中文化。[原始來源](https://github.com/usamireko/DiffSinger4Colab/blob/main/DiffSinger_colab_notebook.ipynb)
 
 ## 範例
 
