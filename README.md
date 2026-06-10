@@ -21,6 +21,14 @@ Gabriel: 見[此連結](https://odysee.com/@itsxiaobaibackupchannel:d/output:d0e
 
 Xe: 再等一下
 
+## 感謝名單
+
+- 創崴：提供算力額度
+- Ray Pan：提供算力額度
+- Eo：標記樣本
+- 子佑：標記樣本
+- David：提供錄音環境
+
 ## 參考來源
 
 - [SOFA AI 自動標記](https://github.com/qiuqiao/SOFA)
