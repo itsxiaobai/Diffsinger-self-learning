@@ -33,3 +33,5 @@ Xe: 再等一下
 
 - [SOFA AI 自動標記](https://github.com/qiuqiao/SOFA)
 - [Diffsinger 官網](https://diffsinger.com/)
+
+Made with ❤️
