@@ -29,7 +29,7 @@ Xe: 見[此連結](https://odysee.com/@itsxiaobaibackupchannel:d/virtual-singer-
 4. 點選「安裝」
 5. 在標籤列「工具」 → 「安裝依賴性（.oudep）...」，選擇依賴套件檔案，等待安裝完成[^2]
 6. 在新音軌中的「選取歌手」，選擇剛安裝好的歌手（Xe）
-7.開始使用！
+7. 開始使用！
 
  （等待影片說明）
 
