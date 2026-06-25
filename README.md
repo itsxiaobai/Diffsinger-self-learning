@@ -27,11 +27,11 @@ Xe: 見[此連結](https://odysee.com/@itsxiaobaibackupchannel:d/virtual-singer-
 2. 啟動 OpenUTAU，在標籤列「工具」 → 「安裝歌手...」，選擇聲音庫檔案[^1]
 3. 在 Archive Flie Encoding 中，選擇 "Unicode (UTF-8)" 後，點選「下一步」
 4. 點選「安裝」
-5. 在標籤列「工具」 → 「安裝依賴性（.oudep）...」，選擇依賴套件檔案，等待安裝完成[^2]
+5. 在標籤列「工具」 → 「安裝相依性（.oudep）...」，選擇依賴套件檔案，等待安裝完成[^2]
 6. 在新音軌中的「選取歌手」，選擇剛安裝好的歌手（Xe）
 7. 開始使用！
 
- （等待影片說明）
+影片版說明[請按我](https://odysee.com/@itsxiaobaibackupchannel:d/Diffsinger-OU-tutorial:c?r=14jXQtjTESfN1aJK6reBREAq9421Lz6v)
 
 ## 感謝名單
 
