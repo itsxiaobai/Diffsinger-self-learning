@@ -14,6 +14,7 @@
 - train_files：存放錄製樣本的資料夾。
 - phonemes.md：標記中文樣本用的對照表（雖然最後其實沒有用到）。[原始來源](https://github.com/2xxbin/diffsinger-chinese-support/blob/main/phonemes.md)
 - fixed_sumi_DiffSinger_colab_notebook_translated.ipynb：由 [Sumi](https://github.com/usamireko) 製作的 Diffsinger 修正版本，已經完成大部分繁體中文化。[原始來源](https://github.com/usamireko/DiffSinger4Colab/blob/main/DiffSinger_colab_notebook.ipynb)
+- LLM_轉換拼音指令範本.md：讓 AI 把歌詞轉換成拼音的指令範本，需配合 [opencpop-extension.txt](https://github.com/openvpi/MakeDiffSinger/blob/main/acoustic_forced_alignment/dictionaries/opencpop-extension.txt)使用。
 
 ## 範例
 
@@ -31,7 +32,8 @@ Xe: 見[此連結](https://odysee.com/@itsxiaobaibackupchannel:d/virtual-singer-
 6. 在新音軌中的「選取歌手」，選擇剛安裝好的歌手（Xe）
 7. 開始使用！
 
-影片版說明[請按我](https://odysee.com/@itsxiaobaibackupchannel:d/Diffsinger-OU-tutorial:c?r=14jXQtjTESfN1aJK6reBREAq9421Lz6v)
+- 影片版安裝說明[請按我](https://odysee.com/@itsxiaobaibackupchannel:d/Diffsinger-OU-tutorial:c?r=14jXQtjTESfN1aJK6reBREAq9421Lz6v)
+- 影片版訓練程式說明再等等
 
 ## 感謝名單
 
