@@ -46,6 +46,12 @@ Xe: 見[此連結](https://odysee.com/@itsxiaobaibackupchannel:d/virtual-singer-
 
 - [SOFA AI 自動標記](https://github.com/qiuqiao/SOFA)
 - [Diffsinger 官網](https://diffsinger.com/)
+- [nnsvs-db-converter](https://github.com/UtaUtaUtau/nnsvs-db-converter)
+- [DiffSinger](https://github.com/MoonInTheRiver/DiffSinger)
+- [DiffSinger （Team OpenVPI 維護）](https://github.com/openvpi/DiffSinger)
+- [DiffSinger Colab 訓練程式 notebook by MLo7](https://github.com/MLo7Ghinsan/DiffSinger_colab_notebook_MLo7)
+- [DiffSinger Colab 訓練程式 notebook by usamireko](https://github.com/usamireko/DiffSinger4Colab)
+- [DiffTrainer](https://github.com/agentasteriski/DiffTrainer)
 
 [^1]: 如果您是 Windows 用戶，可直接將檔案拖入視窗安裝
 [^2]: 如果您是 Windows 用戶，可直接將檔案拖入視窗安裝[^3]
