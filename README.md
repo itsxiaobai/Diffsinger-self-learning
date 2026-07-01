@@ -35,6 +35,10 @@ Xe: 見[此連結](https://odysee.com/@itsxiaobaibackupchannel:d/virtual-singer-
 - 影片版安裝說明：[Odysee](https://odysee.com/@itsxiaobaibackupchannel:d/Diffsinger-OU-tutorial:c?r=14jXQtjTESfN1aJK6reBREAq9421Lz6v)
 - 影片版訓練程式說明：[Odysee](https://odysee.com/@itsxiaobaibackupchannel:d/Diffsinger_Colab_training_tutorial_4:f) | [YouTube](https://youtu.be/ui-082C9VwE)
 
+## 已知問題
+
+- 聲音庫無法自動切分拼音，需要手動在輸入時將子音與母音分開
+
 ## 感謝名單
 
 - 育群老師：提供麥克風設備
